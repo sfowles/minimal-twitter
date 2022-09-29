@@ -4,7 +4,7 @@ Forked from the great work here: [antoniocarusone/minimal-twitter](https://githu
 
 Minimal Twitter is a Boost for [Arc Browser](https://arc.net/) that cleans up the UI with a minimal design that eliminates distractions and prioritizes reading.
 
-![Screenshot of the Twitter UI with Minimal Twitter applied](https://media.cleanshot.cloud/media/46938/NnqGoWpZr5o3bd9ulVEOa5ZqnoPfWVApsJjsGB7j.png?Expires=1664444367&Signature=KGZsEFmxzsjTX5Zy3eDCsf-rvOMJYNR8B2ODVbuSA69bgUSLZzqUZdW~axjtCk2vBddGzz3TTcLtzMfWjwGGMBv8Ni7Wg562Ff62~n0jL8g15AuCYq1wM8PZYpul8-qNc0fg8whCfJWL-5Yu1P8dlLeWoeziqqfJDOmbEE73sfOuh-4wORBZ8Xzx44lYa60Z-SDNsj4j-j9KdsWx924lJEYDuVMtxgSvdLXgq68qP4VvFtSbJjX52rEpDJEp72mw8ZenDlwqvvs0APpUSW2GwTV4PSCEUEdCC9NNKbJIMD4Ry7hWdNe8i564R7jItklc41wrvop90I2mc45TlR0pag__&Key-Pair-Id=K269JMAT9ZF4GZ)
+![Screenshot of the Twitter UI with Minimal Twitter applied](https://media.cleanshot.cloud/media/46938/hvYbC661QX5GsKN3TZYgdyeqVVrwrqEV337eNgA3.png?Expires=1664445162&Signature=SWuBB49fCqrJbwesp939xGcpjTyfmXcgr4ExFW2PIwkL3WvyFr6Le9zLgrt1r0Tn2F-q-vkVa~kH5PBH8zHQlF~fm4WDnyqQR~09WlO8n1zaHGp9wjQlOYRX7a21zyGfBPHYEtCET5Sg4MSNGPnb-Pjw2ZzcKpOutcFqp~hf01fB~QGZv3FofcvsdMfFPzBJxaOQ71l3r7wT1g9-89PxPgjyJZ7r57DS6j1uaxxLmNGN~-~IKoALFt6XGLe6pzkRapMtcGLjbC5VNUTAXC02pLWPLgO9seHSgYJRKukJQVdL6r8dOPG7dPc33KVmea1oT288qeUxBaLNXjLmX0dK7w__&Key-Pair-Id=K269JMAT9ZF4GZ)
 
 # Installation
 - Load https://twitter.com/ in Arc
