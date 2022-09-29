@@ -234,16 +234,18 @@
     border-radius: 10px !important;
 }
 
+
+/* ––– Menu border radius ––– */
+
+.r-z2wwpe {
+    border-radius: 10px !important;
+}
+
 /* ——— Composer modal ——— */
 
 .r-1potc6q .r-ymttw5 {
     border: 0 !important;
     margin-bottom: 0 !important;
-}
-
-/* Menu border radius */
-.r-z2wwpe {
-    border-radius: 10px !important;
 }
 
 /* ——— Style show this thread ——— */
@@ -335,6 +337,7 @@
 }
 
 /* ––– Display threads together ––– */
+
 .css-1dbjc4n.r-1adg3ll.r-1ny4l3l:not(.r-1igl3o0)
     > .css-1dbjc4n
     > .css-1dbjc4n
