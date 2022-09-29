@@ -187,7 +187,7 @@
 
 /* ——— Add space above site ——— */
 
-#react-root {
+[role="main"] {
     margin-top: 158px !important;
 }
 
