@@ -335,21 +335,35 @@
 }
 
 /* ––– Display threads together ––– */
-.css-1dbjc4n.r-1adg3ll.r-1ny4l3l:not(.r-1igl3o0) > .css-1dbjc4n > .css-1dbjc4n > .r-i023vh {
+.css-1dbjc4n.r-1adg3ll.r-1ny4l3l:not(.r-1igl3o0)
+    > .css-1dbjc4n
+    > .css-1dbjc4n
+    > .r-i023vh {
     margin-bottom: 0 !important;
     padding-bottom: 0 !important;
     border-radius: 10px 10px 0 0 !important;
 }
 
-[data-testid="cellInnerDiv"]:has(> div.css-1dbjc4n:not(.r-1igl3o0) > .css-1dbjc4n > .css-1dbjc4n > .r-i023vh) + 
-    div div.css-1dbjc4n:not(.r-1igl3o0) > .css-1dbjc4n > .css-1dbjc4n > .r-i023vh {
+[data-testid="cellInnerDiv"]:has(
+    > div.css-1dbjc4n:not(.r-1igl3o0)
+    > .css-1dbjc4n
+    > .css-1dbjc4n
+    > .r-i023vh)
+    + div div.css-1dbjc4n:not(.r-1igl3o0)
+    > .css-1dbjc4n
+    > .css-1dbjc4n
+    > .r-i023vh {
     padding-top: 0 !important;
     padding-bottom: 0 !important;
     border-radius: 0 !important;
 }
 
-[data-testid="cellInnerDiv"]:has(> div.css-1dbjc4n:not(.r-1igl3o0)) + 
-    div .css-1dbjc4n.r-1igl3o0.r-qklmqi.r-1adg3ll.r-1ny4l3l > .css-1dbjc4n > .css-1dbjc4n > .r-i023vh {
+[data-testid="cellInnerDiv"]:has(
+    > div.css-1dbjc4n:not(.r-1igl3o0))
+    + div .css-1dbjc4n.r-1igl3o0.r-qklmqi.r-1adg3ll.r-1ny4l3l
+    > .css-1dbjc4n
+    > .css-1dbjc4n
+    > .r-i023vh {
     padding-top: 0 !important;
     border-radius: 0 0 10px 10px !important;
 }
