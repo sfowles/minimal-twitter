@@ -68,7 +68,7 @@
 /* ––– Messages search ––– */
 
 .r-xyw6el .r-ero68b {
-    background-color: rgb(27, 27, 27) !important;
+    background-color: rgb(32, 35, 39) !important;
     margin-bottom: 40px !important;
     border-radius: 10px !important;
 }
@@ -82,7 +82,7 @@
 /* ––– Messages boxes ––– */
 
 .r-1sw30gj, .r-1peqgm7, .r-x572qd {
-    background-color: rgb(27, 27, 27) !important;
+    background-color: rgb(32, 35, 39) !important;
     border-radius: 10px !important;
 }
 
@@ -105,10 +105,14 @@
 }
 
 .r-1bymd8e .r-18jsvk2 {
-    color: rgb(27, 27, 27);
+    color: rgb(32, 35, 39);
 }
 .r-1bymd8e .r-lwhw9o {
     height: 1.4rem !important;
+}
+
+.r-1hdo0pc {
+    background-color: rgb(32, 35, 39) !important;
 }
 
 /* ––– Nav ––– */
@@ -131,7 +135,7 @@
 /* ––– Button hover color ––– */
 
 .r-1ydqjzz {
-    background-color: rgb(26, 26, 26) !important;
+    background-color: rgb(32, 35, 39) !important;
 }
 
 /* ––– Tweet clean up ––– */
@@ -199,7 +203,7 @@
 }
 
 .css-1dbjc4n .r-1kqtdi0 .r-1867qdf {
-    background-color: rgb(43, 43, 43) !important;
+    background-color: rgb(48, 53, 58) !important;
 }
 
 .r-1p6iasa {
@@ -215,7 +219,7 @@
 
 .r-oyd9sg .r-ymttw5, .r-qklmqi .r-ymttw5 {
     background-color: rgb(0, 0, 0) !important;
-    border: 1px solid rgb(27, 27, 27) !important;
+    border: 1px solid rgb(32, 35, 39) !important;
     border-radius: 10px !important;
     padding: 25px !important;
 }
@@ -226,8 +230,8 @@
     border: none !important;
 }
 
-.r-h3f8nf .r-x572qd, .r-1cuuowz {
-    background-color: rgb(27, 27, 27) !important;
+.r-h3f8nf .r-x572qd {
+    background-color: rgb(32, 35, 39) !important;
 }
 
 [role="menuitem"].css-1dbjc4n:not(.r-1cuuowz)
@@ -257,7 +261,7 @@
 /* ——— Style show this thread ——— */
 
 .r-qklmqi .r-t2kpel {
-    background-color: rgb(46, 46, 46) !important;
+    background-color: rgb(48, 53, 58) !important;
     border: 0 !important;
     border-radius: 10px !important;
     padding: 0 !important;
@@ -269,7 +273,7 @@
 }
 
 .r-i023vh {
-    background-color: rgb(27, 27, 27) !important;
+    background-color: rgb(32, 35, 39) !important;
     margin-bottom: 40px !important;
     border-radius: 10px !important;
     padding: 30px !important;
@@ -293,7 +297,7 @@
 
 .r-j5o65s .r-m2pi6t {
     background-color: rgb(0, 0, 0) !important;
-    border: 1px solid rgb(27, 27, 27) !important;
+    border: 1px solid rgb(32, 35, 39) !important;
     border-radius: 10px !important;
     margin-bottom: 40px !important;
     padding: 15px !important;
@@ -333,7 +337,7 @@
 
 .r-hdaws3 {
     height: 2px !important;
-    background-color: rgb(27, 27, 27) !important;
+    background-color: rgb(32, 35, 39) !important;
 }
 
 /* ––– Position of floating See new Tweets button ––– */
