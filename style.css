@@ -230,6 +230,19 @@
     background-color: rgb(27, 27, 27) !important;
 }
 
+[role="menuitem"].css-1dbjc4n:not(.r-1cuuowz)
+> .css-1dbjc4n
+> .css-901oao
+> .css-901oao {
+    color: rgb(113, 118, 123) !important;
+}
+
+[role="menuitem"].css-1dbjc4n.r-1cuuowz
+> .css-1dbjc4n
+> .r-1bwzh9t {
+    color: rgb(255, 255, 255) !important;
+}
+
 .r-1cuuowz, .r-z2wwpe {
     border-radius: 10px !important;
 }
@@ -264,13 +277,7 @@
 
 /* ––– Blue buttons ––– */
 
-.r-id7aif .r-l5o3uw, .r-qklmqi .r-19u6a5r {
-    background-color: rgb(29, 155, 240) !important;
-    border: none !important;
-    margin-bottom: 0 !important;
-    padding: 12px !important;
-}
-
+.r-id7aif .r-l5o3uw,
 .r-oyd9sg .r-19u6a5r {
     background-color: rgb(29, 155, 240) !important;
     border: none !important;
