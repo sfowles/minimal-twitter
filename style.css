@@ -68,7 +68,7 @@
 /* ––– Messages search ––– */
 
 .r-xyw6el .r-ero68b {
-    background-color: rgb(248, 248, 248) !important;
+    background-color: rgb(27, 27, 27) !important;
     margin-bottom: 40px !important;
     border-radius: 10px !important;
 }
@@ -82,7 +82,7 @@
 /* ––– Messages boxes ––– */
 
 .r-1sw30gj, .r-1peqgm7, .r-x572qd {
-    background-color: rgb(248, 248, 248) !important;
+    background-color: rgb(27, 27, 27) !important;
     border-radius: 10px !important;
 }
 
@@ -94,7 +94,7 @@
 /* ––– Profile image ––– */
 
 .r-1bimlpy {
-    background-color: rgb(231, 231, 231) !important;
+    background-color: rgb(59, 59, 59) !important;
     border-radius: 10px !important;
 }
 
@@ -105,7 +105,7 @@
 }
 
 .r-1bymd8e .r-18jsvk2 {
-    color: rgb(15, 20, 25);
+    color: rgb(27, 27, 27);
 }
 .r-1bymd8e .r-lwhw9o {
     height: 1.4rem !important;
@@ -131,13 +131,17 @@
 /* ––– Button hover color ––– */
 
 .r-1ydqjzz {
-    background-color: rgb(248, 248, 248) !important;
+    background-color: rgb(26, 26, 26) !important;
 }
 
 /* ––– Tweet clean up ––– */
 
 .r-zl2h9q {
     margin-bottom: 20px !important;
+}
+
+.r-1867qdf {
+    border-radius: 10px !important;
 }
 
 .r-1867qdf .r-zl2h9q {
@@ -194,6 +198,10 @@
     border: none !important;
 }
 
+.css-1dbjc4n .r-1kqtdi0 .r-1867qdf {
+    background-color: rgb(43, 43, 43) !important;
+}
+
 .r-1p6iasa {
     display: none !important;
 }
@@ -206,8 +214,8 @@
 }
 
 .r-oyd9sg .r-ymttw5, .r-qklmqi .r-ymttw5 {
-    background-color: rgb(255, 255, 255) !important;
-    border: 1px solid rgb(230, 230, 230) !important;
+    background-color: rgb(0, 0, 0) !important;
+    border: 1px solid rgb(27, 27, 27) !important;
     border-radius: 10px !important;
     padding: 25px !important;
 }
@@ -218,8 +226,12 @@
     border: none !important;
 }
 
-.r-h3f8nf .r-x572qd{
-    background-color: rgb(255, 255, 255) !important;
+.r-h3f8nf .r-x572qd, .r-1cuuowz {
+    background-color: rgb(27, 27, 27) !important;
+}
+
+.r-1cuuowz {
+    border-radius: 10px !important;
 }
 
 /* ——— Composer modal ——— */
@@ -229,10 +241,15 @@
     margin-bottom: 0 !important;
 }
 
+/* Menu border radius */
+.r-z2wwpe {
+    border-radius: 10px !important;
+}
+
 /* ——— Style show this thread ——— */
 
 .r-qklmqi .r-t2kpel {
-    background-color: rgb(255, 255, 255) !important;
+    background-color: rgb(46, 46, 46) !important;
     border: 0 !important;
     border-radius: 10px !important;
     padding: 0 !important;
@@ -244,7 +261,7 @@
 }
 
 .r-i023vh {
-    background-color: rgb(248, 248, 248) !important;
+    background-color: rgb(27, 27, 27) !important;
     margin-bottom: 40px !important;
     border-radius: 10px !important;
     padding: 30px !important;
@@ -273,8 +290,8 @@
 /* ——— Style show replies ———*/
 
 .r-j5o65s .r-m2pi6t {
-    background-color: rgb(255, 255, 255) !important;
-    border: 1px solid rgb(230, 230, 230) !important;
+    background-color: rgb(0, 0, 0) !important;
+    border: 1px solid rgb(27, 27, 27) !important;
     border-radius: 10px !important;
     margin-bottom: 40px !important;
     padding: 15px !important;
@@ -293,12 +310,12 @@
 /* ——— Style link previews ——— */
 
 .r-1ssbvtb .r-19u6a5r {
-    background-color: rgb(255, 255, 255) !important;
+    background-color: rgb(0, 0, 0) !important;
     border-radius: 10px !important;
 }
 
 .r-1s2bzr4 .r-4wgw6l .css-16my406 {
-    color: black !important;
+    color: rgb(255, 255, 255) !important;
 }
 
 /* ––– Tabs ––– */
@@ -314,7 +331,27 @@
 
 .r-hdaws3 {
     height: 2px !important;
-    background-color: rgb(0, 0, 0) !important;
+    background-color: rgb(27, 27, 27) !important;
+}
+
+/* ––– Display threads together ––– */
+.css-1dbjc4n.r-1adg3ll.r-1ny4l3l:not(.r-1igl3o0) > .css-1dbjc4n > .css-1dbjc4n > .r-i023vh {
+    margin-bottom: 0 !important;
+    padding-bottom: 0 !important;
+    border-radius: 10px 10px 0 0 !important;
+}
+
+[data-testid="cellInnerDiv"]:has(> div.css-1dbjc4n:not(.r-1igl3o0) > .css-1dbjc4n > .css-1dbjc4n > .r-i023vh) + 
+    div div.css-1dbjc4n:not(.r-1igl3o0) > .css-1dbjc4n > .css-1dbjc4n > .r-i023vh {
+    padding-top: 0 !important;
+    padding-bottom: 0 !important;
+    border-radius: 0 !important;
+}
+
+[data-testid="cellInnerDiv"]:has(> div.css-1dbjc4n:not(.r-1igl3o0)) + 
+    div .css-1dbjc4n.r-1igl3o0.r-qklmqi.r-1adg3ll.r-1ny4l3l > .css-1dbjc4n > .css-1dbjc4n > .r-i023vh {
+    padding-top: 0 !important;
+    border-radius: 0 0 10px 10px !important;
 }
 
 /* ––– Space below Replying To in thread ––– */
