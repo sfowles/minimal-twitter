@@ -340,7 +340,7 @@
 }
 
 .css-4rbku5[aria-selected="false"] {
-    background-color: rgb(0, 0, 0) !important;
+    background-color: rgba(0, 0, 0, 0) !important;
 }
 
 .r-1hdo0pc[aria-selected="false"] > .css-901oao {
