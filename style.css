@@ -224,6 +224,13 @@
     padding: 25px !important;
 }
 
+.r-i023vh {
+    background-color: rgb(32, 35, 39) !important;
+    margin-bottom: 40px !important;
+    border-radius: 10px !important;
+    padding: 30px !important;
+}
+
 /* ——— Remove border from @ menu items ——— */
 
 .r-h3f8nf .r-1f1sjgu {
@@ -270,13 +277,6 @@
 .r-sb58tz {
     padding: 0 !important;
     border: none !important;
-}
-
-.r-i023vh {
-    background-color: rgb(32, 35, 39) !important;
-    margin-bottom: 40px !important;
-    border-radius: 10px !important;
-    padding: 30px !important;
 }
 
 /* ––– Blue buttons ––– */
@@ -326,6 +326,18 @@
 
 /* ––– Tabs ––– */
 
+.css-4rbku5[aria-selected="true"] {
+    background-color: rgb(32, 35, 39) !important;
+}
+
+.css-4rbku5[aria-selected="false"] {
+    background-color: rgb(0, 0, 0) !important;
+}
+
+.r-1hdo0pc[aria-selected="false"] > .css-901oao {
+    color: rgb(255, 255, 255) !important;
+}
+
 .r-rthrr5 .r-6b64d0 {
     max-width: 150px !important;
     margin: 40px 15px 0 0 !important;
@@ -337,7 +349,7 @@
 
 .r-hdaws3 {
     height: 2px !important;
-    background-color: rgb(32, 35, 39) !important;
+    background-color: rgba(0, 0, 0, 0) !important;
 }
 
 /* ––– Display threads together ––– */
