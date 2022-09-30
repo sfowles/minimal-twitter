@@ -13,7 +13,7 @@
     display: none !important;
 }
 
-.r-1f1sjgu {
+.r-1f1sjgu:not(.css-4rbku5) {
     margin-bottom: 40px !important;
 }
 
@@ -343,10 +343,6 @@
     background-color: rgba(0, 0, 0, 0) !important;
 }
 
-.r-1hdo0pc[aria-selected="false"] > .css-901oao {
-    color: rgb(255, 255, 255) !important;
-}
-
 .r-rthrr5 .r-6b64d0 {
     max-width: 150px !important;
     margin: 40px 15px 0 0 !important;
@@ -359,6 +355,23 @@
 .r-hdaws3 {
     height: 2px !important;
     background-color: rgba(0, 0, 0, 0) !important;
+}
+
+/* ––– Ignore Settings Tabs ––– */
+
+.css-4rbku5[aria-selected="false"]
+    > .css-1dbjc4n
+    > .css-1dbjc4n
+    > .css-901oao {
+    color: rgba(255, 255, 255, 0.5) !important;
+}
+
+.r-1hdo0pc[aria-selected="false"] > .css-901oao,
+.css-4rbku5[aria-selected="false"].r-g2wdr4
+    > .css-1dbjc4n
+    > .css-1dbjc4n
+    > .css-901oao {
+    color: rgb(255, 255, 255) !important;
 }
 
 /* ––– Display threads together ––– */
