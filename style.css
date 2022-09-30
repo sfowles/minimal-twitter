@@ -267,6 +267,11 @@
     border-radius: 10px !important;
 }
 
+[data-testid="trend"].css-1dbjc4n {
+    background-color: rgb(32, 35, 39) !important;
+    border-radius: 10px !important;
+}
+
 /* ——— Composer modal ——— */
 
 .r-1potc6q .r-ymttw5 {
