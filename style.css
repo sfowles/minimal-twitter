@@ -340,12 +340,6 @@
     background-color: rgb(32, 35, 39) !important;
 }
 
-/* ––– Position of floating See new Tweets button ––– */
-
-.r-18jm5s1 {
-    transform: translate3d(0px, 0px, 0px) translateY(175px) !important;
-}
-
 /* ––– Display threads together ––– */
 
 .css-1dbjc4n.r-1adg3ll.r-1ny4l3l:not(.r-1igl3o0)
