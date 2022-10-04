@@ -55,6 +55,16 @@
     top: 20px !important;
 }
 
+/* ––– Input fields ––– */
+label.css-1dbjc4n.r-18u37iz:not(.r-1dqbpge) {
+    border: 1px solid rgb(29, 155, 240) !important;
+}
+
+.css-1dbjc4n.r-6416eg
+    > .css-1dbjc4n.r-19wmn03 {
+    border: 1px solid rgb(29, 155, 240) !important;
+}
+
 /* ——— GIF Search ——— */
 
 .r-1pp923h .r-1h3ijdo {
@@ -270,6 +280,16 @@
 [data-testid="trend"].css-1dbjc4n {
     background-color: rgb(32, 35, 39) !important;
     border-radius: 10px !important;
+}
+
+/* ——— Polls ——— */
+
+[role="radio"].css-1dbjc4n {
+    border: 1px solid rgb(29, 155, 240) !important;
+}
+
+[role="radio"].css-1dbjc4n.r-1peqgm7 {
+    background-color: rgb(29, 155, 240) !important;
 }
 
 /* ——— Composer modal ——— */
