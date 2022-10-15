@@ -434,6 +434,12 @@ label.css-1dbjc4n.r-18u37iz:not(.r-1dqbpge) {
     border-radius: 0 0 10px 10px !important;
 }
 
+/* ——— Adjust width of Products ——— */
+
+.r-ymttw5 .r-6b64d0 {
+    max-width: 350px !important;
+}
+
 /* ––– Space below Replying To in thread ––– */
 
 .r-rjfia {
